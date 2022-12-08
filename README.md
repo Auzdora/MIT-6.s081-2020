@@ -1,2 +1,4 @@
 # 6.s081-Lab
-MIT 6.s081 Lab repo.
+
+This is my personal implementation of 6.S081 Lab.
+[x] asd
