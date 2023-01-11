@@ -11,6 +11,6 @@ This is my personal implementation of 6.S081 Lab.
 - [x] Lab6 Copy-on-write fork
 - [x] Lab7 Multithreading
 - [x] Lab8 Parallelism/locking
-- [ ] Lab9 File system
+- [x] Lab9 File system
 - [ ] Lab10 Mmap
 - [ ] Lab11 Network stack
